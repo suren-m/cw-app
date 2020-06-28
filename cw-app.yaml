@@ -18,7 +18,7 @@ spec:
         app: cw-app
     spec:
       containers:
-      - image: surenmcode:cw-app:1.0
-        name: surenmcode
+      - image: surenmcode/cw-app:1.0
+        name: cw-app
         resources: {}
 status: {}
