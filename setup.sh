@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 printf "\n..CW App Setup.."
 printf "\n..Make sure you're already logged into Docker Hub via Docker login..\n\n"
 
